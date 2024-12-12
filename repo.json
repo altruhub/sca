@@ -1,0 +1,126 @@
+[
+  {
+    "repo": "waca/waca_ec",
+    "branch": "pre",
+    "locks": [
+      "composer.lock",
+      "package-lock.json"
+    ]
+  },
+  {
+    "repo": "waca/waca_entry",
+    "branch": "develop",
+    "locks": [
+      "composer.lock",
+      "package-lock.json"
+    ]
+  },
+  {
+    "repo": "waca/wadmin",
+    "branch": "develop",
+    "locks": [
+      "composer.lock",
+      "package-lock.json"
+    ]
+  },
+  {
+    "repo": "waca/wadmin_frontend",
+    "branch": "develop",
+    "locks": [
+      "package-lock.json"
+    ]
+  },
+  {
+    "repo": "waca/waca_pos_backend",
+    "branch": "pre",
+    "locks": [
+      "composer.lock"
+    ]
+  },
+  {
+    "repo": "waca/waca_pos_front",
+    "branch": "pre",
+    "locks": [
+      "package-lock.json"
+    ]
+  },
+  {
+    "repo": "washop/globalchildedu/common",
+    "branch": "develop",
+    "locks": [
+      "composer.lock"
+    ]
+  },
+  {
+    "repo": "washop/globalchildedu/www_api",
+    "branch": "develop",
+    "locks": [
+      "composer.lock"
+    ]
+  },
+  {
+    "repo": "washop/globalchildedu/admin",
+    "branch": "develop",
+    "locks": [
+      "package-lock.json"
+    ]
+  },
+  {
+    "repo": "washop/globalchildedu/admin_api",
+    "branch": "develop",
+    "locks": [
+      "composer.lock"
+    ]
+  },
+  {
+    "repo": "washop/globalchildedu/www",
+    "branch": "develop",
+    "locks": [
+      "package-lock.json"
+    ]
+  },
+  {
+    "repo": "washop/efshop_api",
+    "branch": "develop",
+    "locks": [
+      "composer.lock"
+    ]
+  },
+  {
+    "repo": "washop/efshop_admin",
+    "branch": "develop",
+    "locks": [
+      "composer.lock"
+    ]
+  },
+  {
+    "repo": "washop/efshop",
+    "branch": "develop",
+    "locks": [
+      "composer.lock",
+      "package-lock.json"
+    ]
+  },
+  {
+    "repo": "washop/efshop_mobile",
+    "branch": "develop",
+    "locks": [
+      "yarn.lock"
+    ]
+  },
+  {
+    "repo": "washop/net",
+    "branch": "develop",
+    "locks": [
+      "composer.lock",
+      "package-lock.json"
+    ]
+  },
+  {
+    "repo": "washop/net_admin",
+    "branch": "develop",
+    "locks": [
+      "composer.lock"
+    ]
+  }
+]
